@@ -95,7 +95,7 @@ MOUSEKEY_ENABLE = yes	# Mouse keys
 #CONSOLE_ENABLE = yes	# Console for debug
 #COMMAND_ENABLE = yes    # Commands for debug and configuration
 #NKRO_ENABLE = yes	# USB Nkey Rollover
-KEYMAP_IN_EEPROM_ENABLE = yes	# External keymap in eeprom
+# KEYMAP_IN_EEPROM_ENABLE = yes	# External keymap in eeprom
 LEDMAP_ENABLE = yes	# Enable LED mapping
 LEDMAP_IN_EEPROM_ENABLE = yes # Read LED mapping from eeprom
 
